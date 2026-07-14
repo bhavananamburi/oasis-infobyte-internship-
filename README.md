@@ -35,6 +35,7 @@ The primary goal of this internship was to strengthen practical knowledge in Dat
 # 🚀 Internship Projects
 
 ## 📌 Task 1 – Exploratory Data Analysis (Retail Sales)
+🔗 **Project Notebook:** [View Project](https://github.com/bhavananamburi/oasis-infobyte-internship/blob/main/Bhavana_task1_Exploratory Data Analysis.ipynb)
 
 ### 📖 Overview
 Performed Exploratory Data Analysis (EDA) on a retail sales dataset to understand customer purchasing behavior, sales trends, and product performance. The project focused on transforming raw business data into actionable insights through statistical analysis and visualization.
